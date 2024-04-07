@@ -10,9 +10,9 @@
 ```https://hub.docker.com/repository/docker/javierhuebra/user-api/general```
 
 ### Se deployó la api en un servidor gratuito para probar
-###GET All users
+### GET All users
 ```https://user-api-1-0.onrender.com/users```
-###POST Create user
+### POST Create user
 ```https://user-api-1-0.onrender.com/users```
 ```
 {
