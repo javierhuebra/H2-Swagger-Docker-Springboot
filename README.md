@@ -8,3 +8,6 @@
 
 ### Este proyecto se encuentra dockerizado y subido en el siguiente repositorio
 ```https://hub.docker.com/repository/docker/javierhuebra/user-api/general```
+
+### Se deployó la api en un servidor gratuito para probar
+```https://user-api-1-0.onrender.com/users```
